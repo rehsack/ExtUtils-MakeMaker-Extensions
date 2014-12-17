@@ -10,7 +10,7 @@ ExtUtils::MakeMaker::Extensions - Helper for multiple ExtUtils::MakeMaker extens
 
 =cut
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 SYNOPSIS
 
